@@ -19,6 +19,20 @@ WeDevs| Laravel Product Api
 - Tokenizer PHP Extension
 - XML PHP Extension
 
+
+## MailGun Configuration
+
+- MAIL_MAILER=smtp
+- MAIL_HOST=smtp.mailtrap.io
+- MAIL_PORT=2525
+- MAIL_USERNAME=user_name
+- MAIL_PASSWORD=password
+- MAIL_ENCRYPTION=tls
+- MAIL_FROM_ADDRESS=mdeahiamondal@gmail.com
+
+## Here you can use mail trap  => https://mailtrap.io
+
+
 ## Installation
 Here are some basic steps to start using this application
 
