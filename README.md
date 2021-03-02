@@ -40,6 +40,7 @@ DB_PASSWORD=set_your_password_if_need
 ```
 
 > Note that this is just an example, and the values may vary depending on your database environment.
+> Note please configure your mail on env file.
 
 - Set the `APP_ENV` variable in your `.env` file according to your application environment (e.g. local, production) in `.env` file
 
